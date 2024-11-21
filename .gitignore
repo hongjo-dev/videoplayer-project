@@ -1,0 +1,36 @@
+# 빌드 결과물
+bin/
+obj/
+
+# 사용자 환경 설정
+*.csproj.user
+*.suo
+*.user
+.vscode/
+
+# 기타 자동 생성 파일
+*.Designer.cs~
+
+# 외부 라이브러리
+packages/
+DLL/
+
+# 임시 파일 및 로그
+*.tmp
+*.temp
+*.log
+*.cache
+
+# 리소스 파일
+IMAGE/
+
+# 운영체제 및 IDE 파일
+Thumbs.db
+.DS_Store
+
+# 백업 파일
+*.bak
+
+# Visual Studio 임시 파일
+*.swp
+*.nuget.cache
