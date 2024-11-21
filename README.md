@@ -7,6 +7,22 @@
 
 ---
 
+## 🖼️ 프로젝트 주요 화면
+
+### 1. **메인 화면**
+프로그램의 기본 UI로, 왼쪽에 탐색 메뉴와 하단의 재생 컨트롤이 표시됩니다.
+
+![Main Screen](https://github.com/hongjo-dev/videoplayer-project/raw/main/images/main-screen.png)
+
+---
+
+### 2. **동영상 재생 화면**
+미디어 파일을 로드하여 재생할 때의 화면입니다.
+
+![Playback Screen](https://github.com/hongjo-dev/videoplayer-project/raw/main/images/playback-screen.png)
+
+---
+
 ## 🛠️ 주요 기능
 1. **미디어 재생**:
    - LAV Filters를 사용하여 MP4와 같은 미디어 파일을 재생합니다.
